@@ -1,0 +1,24 @@
+.choiceBtn {
+    line-height: 30px;
+    width: 150px;
+}
+#gameDiv { 
+    font-family: "MS Gothic", cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: black;
+    text-align: center;
+    color: limegreen;
+    text-align: center;
+
+}
+#playerText {
+    color: forestgreen;
+}
+#computerText {
+    color: red;
+}
+#resultText {
+    color: blue;
+}
